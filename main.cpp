@@ -10,7 +10,7 @@ int main() {
     stack.push(10);
     stack.push(15);
 
-    cout << "Stack contents: ";
+    cout << "Stack contents (LIFO): ";
     stack.print();
 
     cout << "Top element: " << stack.top() << endl;

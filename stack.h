@@ -16,7 +16,7 @@ public:
 	}
 
 	T top() {
-		return array.L_top();
+		return array.LF_top();
 	}
 
 	void clear() {
